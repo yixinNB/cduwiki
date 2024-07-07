@@ -1,0 +1,5 @@
+/node_modules
+/doc/.*
+/package.json
+/pnpm-lock.yaml
+/doc/index.md
