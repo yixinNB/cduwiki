@@ -1,2 +1,2 @@
-/doc/study/学习资料/* filter=lfs diff=lfs merge=lfs -text
+/doc/public/study/* filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
