@@ -13,6 +13,7 @@ description: 本页面提供了成都大学各个网站的索引. 提供了密�
 - [图书馆管理](http://libopac-cdu-edu-cn.vpn.cdu.edu.cn:8118/reader/redr_info.php)
 - [超星课表](https://i.chaoxing.com/base?t=1709169394498)
 - [智慧树](https://onlineweb.zhihuishu.com/onlinestuh5)
+- [财务处](https://cwcs.cdu.edu.cn/FINPortal/casCddxLogin.action)
 
 
 ## 计算机学院
