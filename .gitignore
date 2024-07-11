@@ -1,5 +1,7 @@
 /node_modules
 /package.json
 /pnpm-lock.yaml
+/tsconfig.json
 /dist
 /.*
+/doc/public/*.json

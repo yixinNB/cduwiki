@@ -14,7 +14,7 @@
 我们欢迎更多的同学对该repo有更多建议和优化方案，欢迎您使用`Forking`工作流提交 Pull
 Request，具体参考[atlassian文档](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)：
 
-如果你不清楚如何使用github, 请将信息整理好后发送到admin@erledge.com, 官方维护人员看到你的消息以后会第一时间处理.
+如果你不清楚如何使用github, 请将信息整理好后发送到admin@erledge.com, 官方维护人员看到消息以后会第一时间处理.
 
 ## 如何在本网站发布文章
 

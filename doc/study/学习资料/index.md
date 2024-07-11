@@ -4,6 +4,6 @@ description: 获取成都大学全面的学习资料，提升你的编程技能�
 
 # 学习资料
 
-- <a href="/study/java web开发笔记.docx" target="_blank">java web开发笔记</a>
-- <a href="/study/MySQL数据库.docx" target="_blank">MySQL数据库</a>
-- <a href="/study/SSM框架学习笔记.docx" target="_blank">SSM框架学习笔记</a>
+- <a href="/large_files/java web开发笔记.docx" target="_blank">java web开发笔记</a>
+- <a href="/large_files/MySQL数据库.docx" target="_blank">MySQL数据库</a>
+- <a href="/large_files/SSM框架学习笔记.docx" target="_blank">SSM框架学习笔记</a>
