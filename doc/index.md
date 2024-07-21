@@ -1,15 +1,15 @@
 ---
 layout: home
-title: 成都大学维基百科
+title: 成大百科
 
 hero:
   name: "CDUWiki"
-  text: "成都大学"
+  text: "成都大学-成大百科"
   tagline: 成大学子自发建立的Wiki. 整合了学习与生活之中的常用的信息，包括但不限于学习资源、转专业资料、校内外各项服务等。
   actions:
     - theme: brand
       text: 新生入学指南
-      link: /成都大学新生入学指南
+      link: /freshman-guide
     - theme: alt
       text: 转专业指南
       link: /study/转专业指南/
