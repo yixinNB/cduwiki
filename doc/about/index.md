@@ -18,6 +18,6 @@ import { NAV_DATA } from './data'
 
 ## Contributors
 
-<a href="https://github.com/yixinnb/CDU-WiKi/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yixinnb/CDU-WiKi" />
+<a href="https://github.com/yixinnb/cduwiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yixinnb/cduwiki" />
 </a>

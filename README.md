@@ -53,8 +53,6 @@ Request，具体参考[atlassian文档](https://www.atlassian.com/git/tutorials/
 
 ## Contributors
 
-<a href="https://github.com/yixinnb/CDU-WiKi/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yixinnb/CDU-WiKi" />
+<a href="https://github.com/yixinnb/cduwiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yixinnb/cduwiki" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
