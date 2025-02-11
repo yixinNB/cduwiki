@@ -8,6 +8,9 @@ hero:
   tagline: 成大学子自发建立的Wiki. 整合了学习与生活之中的常用的信息，包括但不限于学习资源、转专业资料、校内外各项服务等。
   actions:
     - theme: brand
+      text: 志愿季-锐评CDU
+      link: /introduction
+    - theme: brand
       text: 新生入学指南
       link: /freshman-guide
     - theme: alt
